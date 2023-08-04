@@ -1,6 +1,11 @@
+// =================================
+// For More About GoogleAuth
+// https://blog.logrocket.com/guide-adding-google-login-react-app/
+// =================================
+
 // *IN MAIN JSX
 import { GoogleOAuthProvider } from '@react-oauth/google'
-<GoogleOAuthProvider clientId='1097136097584-gjpjibr99lc3d50u13mjl18vr9n618gm.apps.googleusercontent.com'>
+<GoogleOAuthProvider clientId='_CLIENT_ID_.apps.googleusercontent.com'>
   <React.StrictMode>
     <App />
   </React.StrictMode>,
