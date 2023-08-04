@@ -1,3 +1,3 @@
-# axios-interceptor-and-base64-and-progress-bar
+# Some useful codes
 ###
-Some userful codes such as base64, progress bar and Axios interceptors!
+Some userful codes such as <code>base64</code>, <code>progress bar</code> and <code>Axios interceptors</code> <code>Google AUTH</code>!
